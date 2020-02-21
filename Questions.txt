@@ -1,0 +1,45 @@
+1. "What was Java originally called?
+a.) Oak
+b.) Spruce
+c.) Latte
+d.) Chai /
+2. How many platforms does Java have?
+a.) One
+b.) Three
+c.) Four
+d.) Seven /	
+3. Choose the best definition for a Class: 
+a) An action for a program. 
+b) An object definition, containing the data and function elements necessary to create an object. 
+c) A group of students in a class. /
+4. Given the declaration: int [ ] arr = {1,2,3,4,5}; What is the value of arr[3]? 
+a) 3
+b) 4
+c) 5 /	
+5. Choose the best definition of an object. 
+a) A thing.
+b) Something you wear. 
+c) An instance of a class. /
+6. What is the proper way to declare a variable? 
+a) VariableName; 
+b) VariableType variableName;
+c) VariableName variableType; /
+7. What is a loop?
+a) A segment of code to be run infinite times. 
+b) A segment of code to be run once. 
+c) A segment of code to be run a specified amount of times. /
+8. What is the size of a Char in Java? 
+a) 16 bits
+b) 7 bits
+c) 8 bits
+d) 4 bits. /
+9. What is the keyword used in java to create an object? 
+a) This
+b) Sync
+c) New
+d) New() /
+10. If you want your condition to depend upon two conditions BOTH being true. What is the propper notation to put between the two Boolean statements?
+a) &&
+b) !
+c) == 
+d) || /

@@ -1,0 +1,10 @@
+The earliest version of Java was known as Oak. This was inspired by a big oak tree that grew outside the window of the lead creator of Java, James Gosling. It was later changed to Java by Sun’s marketing department when Sun lawyers found that there was already a computer company registered as Oak./
+Java has 4 platforms: JavaStandard Edition, JavaEnterprise Edition, JavaMicro Edition, and JavaFX. /
+Classes and Objects are basic concepts of Object Oriented Programming which revolve around the real life entities. A class is a user defined blueprint or prototype from which objects are created. It represents the set of properties or methods that are common to all objects of one type./
+Because in Java elements start counting from 0. Element [0] is "1", so element [3] is "4"./
+It is a basic unit of Object Oriented Programming and represents the real life entities. A typical Java program creates many objects, which as you know, interact by invoking methods./
+We can declare variables in java as follows: type: Type of data that can be stored in this variable. name: Name given to the variable. /
+Looping in programming languages is a feature which facilitates the execution of a set of instructions or functions repeatedly while some condition evaluates to true. Java provides three ways for executing the loops. While all the ways provide similar basic functionality, they differ in their syntax and condition checking time. /
+Char size is 16 bit i.e 2 byte. /
+Using new keyword is the most basic way to create an object. This is the most common way to create an object in java. Almost 99% of objects are created in this way. /
+&& Conects two boolean expresions into one. Both expresions must be true for the overall expresion to be true /
